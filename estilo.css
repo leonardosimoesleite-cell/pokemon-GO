@@ -5,9 +5,11 @@ display: flex;
 justify-content: center;
 align-items: center;
 
-
 }
-
 .img01{
     width: 95%;
+}
+button{
+    background-color: darkseagreen;
+    
 }
