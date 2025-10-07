@@ -1,6 +1,11 @@
 body{
     background-color: rgb(25, 102, 25);
     color: rgb(65, 70, 65);
+display: flex;
+justify-content: center;
+align-items: center;
+
+
 }
 
 .img01{
